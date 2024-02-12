@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\melek\dialogbox\dialogbox\bin\Debug\dialogbox.exe.config
+C:\Users\User\Desktop\KORUMASIZ\melek\dialogbox\dialogbox\bin\Debug\dialogbox.exe
+C:\Users\User\Desktop\KORUMASIZ\melek\dialogbox\dialogbox\bin\Debug\dialogbox.pdb
+C:\Users\User\Desktop\KORUMASIZ\melek\dialogbox\dialogbox\obj\Debug\dialogbox.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\dialogbox\dialogbox\obj\Debug\dialogbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\dialogbox\dialogbox\obj\Debug\dialogbox.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\melek\dialogbox\dialogbox\obj\Debug\dialogbox.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\melek\dialogbox\dialogbox\obj\Debug\dialogbox.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\dialogbox\dialogbox\obj\Debug\dialogbox.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\dialogbox\dialogbox\obj\Debug\dialogbox.exe
+C:\Users\User\Desktop\KORUMASIZ\melek\dialogbox\dialogbox\obj\Debug\dialogbox.pdb
